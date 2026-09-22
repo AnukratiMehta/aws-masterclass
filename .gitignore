@@ -1,0 +1,6 @@
+.aws/
+credentials
+*.pem
+*.key
+.env
+.DS_Store
